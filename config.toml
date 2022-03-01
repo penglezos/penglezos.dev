@@ -45,7 +45,7 @@ theme = 'hello-friend-ng'
 
 [[params.social]]
     name = "email"
-    url  = "panagiotisegl@gmail.com"
+    url  = "mailto:panagiotisegl@gmail.com"
 
   [[params.social]]
     name = "github"
