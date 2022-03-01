@@ -16,3 +16,15 @@ theme = 'hello-friend-ng'
 [languages.en.params.logo]
     logoHomeLink = "/"
     logoText = "penglezos"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+    weight     = 1
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+    weight     = 2
