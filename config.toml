@@ -29,6 +29,7 @@ theme = 'hello-friend-ng'
 [languages.en.params.logo]
     logoHomeLink = "/"
     logoText = "penglezos"
+    logoCursorDisabled = true
 
 [menu]
   [[menu.main]]
