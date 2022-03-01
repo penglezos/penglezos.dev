@@ -42,10 +42,6 @@ theme = 'hello-friend-ng'
     url        = "/posts"
     weight     = 2
 
-[params.footer]
-    trademark = true
-    author = true
-
 [[params.social]]
     name = "email"
     url  = "panagiotisegl@gmail.com"
@@ -65,3 +61,7 @@ theme = 'hello-friend-ng'
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/englezosp"
+
+[params.footer]
+    trademark = true
+    author = true
