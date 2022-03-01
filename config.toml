@@ -42,3 +42,6 @@ theme = 'hello-friend-ng'
     url        = "/posts"
     weight     = 2
 
+[params.footer]
+    trademark = true
+    author = true
