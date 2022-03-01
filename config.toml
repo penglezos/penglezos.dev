@@ -2,3 +2,6 @@ baseURL = 'http://penglezos.github.io'
 languageCode = 'en-us'
 title = 'Panagiotis Englezos'
 theme = 'hello-friend-ng'
+
+[author]
+  name = "Panagiotis Englezos"
