@@ -45,3 +45,23 @@ theme = 'hello-friend-ng'
 [params.footer]
     trademark = true
     author = true
+
+[[params.social]]
+    name = "email"
+    url  = "panagiotisegl@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/penglezos"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://linkedin.com/in/panagiotis-englezos-850023214"
+
+  [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/penglezos"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/englezosp"
