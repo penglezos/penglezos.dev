@@ -16,6 +16,11 @@ theme = 'hello-friend-ng'
   keywords = "homepage, blog"
   images = [""]
 
+[params.portrait]
+    path     = "/img/avatar.png"
+    alt      = "Avatar"
+    maxWidth = "150px"
+
 [author]
   name = "Panagiotis Englezos"
 
