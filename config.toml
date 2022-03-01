@@ -5,3 +5,14 @@ theme = 'hello-friend-ng'
 
 [author]
   name = "Panagiotis Englezos"
+
+[languages]
+  [languages.en]
+    keywords = ""
+    title = "Panagiotis Englezos"
+    homeSubtitle = "..."
+    readOtherPosts = "Read other posts"
+
+[languages.en.params.logo]
+    logoHomeLink = "/"
+    logoText = "penglezos"
