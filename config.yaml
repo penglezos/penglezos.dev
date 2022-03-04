@@ -54,7 +54,7 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
+        enabled: true # needs to be explicitly set
         title: ExampleSite
         subtitle: "This is subtitle"
         imageUrl: "<img location>"
@@ -66,11 +66,6 @@ params:
               url: posts
             - name: Tags
               url: tags
-
-    # home-info mode
-    homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
 
     socialIcons:
         - name: twitter
