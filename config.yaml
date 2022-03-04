@@ -55,25 +55,24 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        title: Panagiotis Englezos
+        subtitle: "Android & web developer"
+        imageUrl: "img/avatar.png"
         imageWidth: 120
         imageHeight: 120
-        imageTitle: my image
-        buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+        imageTitle: avatar
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
+        - name: email
+          url: "panagiotisegl@gmail.com"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/penglezos"
+        - name: linkedin
+          url: "https://linkedin.com/in/panagiotis-englezos-850023214"
+        - name: telegram
+          url: "https://t.me/penglezos"
+        - name: twitter
+          url: "https://twitter.com/englezosp"
 
     analytics:
         google:
