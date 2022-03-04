@@ -48,19 +48,14 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Panagiotis Englezos"
+        text: "penglezos"
         icon: ""
         iconHeight: 35
 
-    # profile-mode
-    profileMode:
-        enabled: true # needs to be explicitly set
-        title: Panagiotis Englezos
-        subtitle: "Android & web developer"
-        imageUrl: "img/avatar.png"
-        imageWidth: 120
-        imageHeight: 120
-        imageTitle: avatar
+
+    homeInfoParams:
+        Title: "Panagiotis Englezos"
+        Content: An Android & web developer
 
     socialIcons:
         - name: email
