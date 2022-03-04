@@ -64,7 +64,7 @@ params:
 
     socialIcons:
         - name: email
-          url: "panagiotisegl@gmail.com"
+          url: "mailto:panagiotisegl@gmail.com"
         - name: github
           url: "https://github.com/penglezos"
         - name: linkedin
