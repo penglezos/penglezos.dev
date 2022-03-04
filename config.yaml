@@ -55,7 +55,7 @@ params:
 
     homeInfoParams:
         Title: "Panagiotis Englezos"
-        Content: An Android & web developer
+        Content: Android & web developer
 
     socialIcons:
         - name: email
