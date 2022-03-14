@@ -98,7 +98,3 @@ menu:
           name: About
           url: /about
           weight: 20
-        - identifier: blog
-          name: Blog
-          url: /posts/
-          weight: 30
