@@ -64,10 +64,6 @@ params:
           url: "https://github.com/penglezos"
         - name: linkedin
           url: "https://linkedin.com/in/panagiotis-englezos-850023214"
-        - name: telegram
-          url: "https://t.me/penglezos"
-        - name: twitter
-          url: "https://twitter.com/englezosp"
 
     analytics:
         google:
