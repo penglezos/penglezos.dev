@@ -63,7 +63,7 @@ params:
         - name: github
           url: "https://github.com/penglezos"
         - name: linkedin
-          url: "https://linkedin.com/in/panagiotis-englezos-850023214"
+          url: "https://linkedin.com/in/penglezos"
 
     analytics:
         google:
