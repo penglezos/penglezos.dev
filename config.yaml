@@ -58,12 +58,12 @@ params:
         Content: Android & web developer
 
     socialIcons:
-        - name: email
-          url: "mailto:panagiotisegl@gmail.com"
         - name: github
           url: "https://github.com/penglezos"
         - name: linkedin
           url: "https://linkedin.com/in/penglezos"
+        - name: email
+          url: "mailto:panagiotisegl@gmail.com"   
 
     analytics:
         google:
