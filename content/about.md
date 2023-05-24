@@ -9,7 +9,7 @@ ShowReadingTime = false
 ShowToc = false
 +++
 
-Hello! I'm Panagiotis Englezos, a software and web developer with strong background in Android OS and application development.
+I'm Panagiotis Englezos, a software and web developer with strong background in Android OS and application development.
 
 I'm an active contributor to open-source software, and most of my personal projects are open source. 
 
