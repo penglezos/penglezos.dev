@@ -1,6 +1,6 @@
 baseURL = "http://penglezos.github.io/"
 languageCode = "en-us"
-title = "Panagiotis Englezos"
+title = "penglezos"
 theme = "PaperMod"
 
 [params.profileMode]
