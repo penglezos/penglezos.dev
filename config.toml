@@ -8,9 +8,9 @@ enabled = true
 title = "Panagiotis Englezos"
 subtitle = "Android & web developer"
 
-  [[params.profileMode.buttons]]
-  name = "About"
-  url = "/about"
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about"
 
 [[params.socialIcons]]
 name = "Github"
