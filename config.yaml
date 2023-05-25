@@ -15,8 +15,6 @@ minify:
     minifyOutput: true
 
 params:
-    profileMode:
-    enabled: true
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: ExampleSite
     description: "ExampleSite description"
@@ -55,9 +53,10 @@ params:
         iconHeight: 35
 
 
-    homeInfoParams:
-        Title: "Panagiotis Englezos 👨‍💻"
-        Content: Android & web developer
+    profileMode:
+        enabled: true
+        title: Panagiotis Englezos
+        subtitle: "Android & web developer"
 
     socialIcons:
         - name: github
