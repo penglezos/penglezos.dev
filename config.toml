@@ -1,0 +1,25 @@
+baseURL = "http://penglezos.github.io/"
+languageCode = "en-us"
+title = "Panagiotis Englezos"
+theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+title = "Panagiotis Englezos"
+subtitle = "Android & web developer"
+
+  [[params.profileMode.buttons]]
+  name = "About"
+  url = "/about"
+
+[[params.socialIcons]]
+name = "Github"
+url = "https://github.com/penglezos"
+
+[[params.socialIcons]]
+name = "Linkedin"
+url = "https://linkedin.com/in/penglezos"
+
+[[params.socialIcons]]
+name = "Email"
+url = "mailto:panagiotisegl@gmail.com"
