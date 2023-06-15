@@ -1,4 +1,4 @@
-baseURL = "http://penglezos.github.io/"
+baseURL = "http://penglezos.dev/"
 languageCode = "en-us"
 title = "penglezos"
 theme = "PaperMod"
