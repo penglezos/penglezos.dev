@@ -6,7 +6,7 @@ theme = "PaperMod"
 [params.profileMode]
 enabled = true
 title = "Panagiotis Englezos"
-subtitle = "Android & web developer"
+subtitle = "Software & Web developer"
 
 [[params.profileMode.buttons]]
 name = "About"
