@@ -7,6 +7,9 @@ theme = "PaperMod"
 enabled = true
 title = "Panagiotis Englezos"
 subtitle = "Software & Web developer"
+imageUrl = "https://avatars.githubusercontent.com/u/7030531"
+imageTitle = "Panagiotis Englezos"
+imageWidth = 160
 
 [[params.profileMode.buttons]]
 name = "About"
