@@ -7,7 +7,7 @@ theme = "PaperMod"
 enabled = true
 title = "Panagiotis Englezos"
 subtitle = "Software & Web developer"
-images = "images/logo.png"
+imageUrl = "images/logo.png"
 imageTitle = "Panagiotis Englezos"
 imageWidth = 160
 
