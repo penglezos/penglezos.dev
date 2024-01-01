@@ -15,10 +15,6 @@ imageWidth = 160
 name = "About"
 url = "/about"
 
-[[params.profileMode.buttons]]
-name = "Blog"
-url = "/posts"
-
 [[params.socialIcons]]
 name = "Github"
 url = "https://github.com/penglezos"
