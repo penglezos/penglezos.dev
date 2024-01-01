@@ -2,18 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://penglezos.dev/posts/my-first-post/</loc>
-    <lastmod>2023-07-04T14:28:32+05:30</lastmod>
-  </url><url>
-    <loc>http://penglezos.dev/</loc>
-    <lastmod>2023-07-04T14:28:32+05:30</lastmod>
-  </url><url>
-    <loc>http://penglezos.dev/posts/</loc>
-    <lastmod>2023-07-04T14:28:32+05:30</lastmod>
-  </url><url>
     <loc>http://penglezos.dev/about/</loc>
   </url><url>
     <loc>http://penglezos.dev/categories/</loc>
+  </url><url>
+    <loc>http://penglezos.dev/</loc>
   </url><url>
     <loc>http://penglezos.dev/tags/</loc>
   </url>
