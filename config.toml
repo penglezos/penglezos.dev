@@ -16,9 +16,10 @@ imageTitle = "Panagiotis Englezos"
 imageWidth = 160
 imageHeight = 150
 
-[[params.profileMode.buttons]]
-name = "About"
-url = "/about"
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 5
 
 [[params.socialIcons]]
 name = "Github"
