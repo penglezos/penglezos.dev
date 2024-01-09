@@ -4,14 +4,13 @@ title = "penglezos"
 theme = "PaperMod"
 
 [params]
+description = "penglezos software and web developer"
+author = "penglezos"
 
 [params.profileMode]
 enabled = true
 title = "Panagiotis Englezos"
 subtitle = "Software & Web developer"
-description = "penglezo's personal website."
-author = "penglezos"
-keywords = "penglezos, panagiotis englezos, panagiotisenglezos"
 imageUrl = "images/logo.png"
 imageTitle = "Panagiotis Englezos"
 imageWidth = 160
