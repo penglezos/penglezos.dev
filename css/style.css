@@ -36,18 +36,9 @@ img {
 
 .icons a {
     display: inline-block;
-    height: 3.5rem;
     width: 2rem;
     color: #fafafa!important;
     text-align: center;
-    font-size: 1.5rem;
-    line-height: 3.5rem;
-    margin-top: -5rem;
     margin-bottom: 2rem;
     margin-right: 0.5rem;
-    border-radius: 10%;
-}
-
-.icons a:hover {
-    background-color: #167c80;
 }
