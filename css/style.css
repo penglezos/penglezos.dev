@@ -13,3 +13,10 @@ body {
 .nav-link {
     color: #fafafa;
 }
+
+.card {
+    width: 500px;
+    background-color: #444749;
+    color: #fafafa;
+    border: none;
+}
