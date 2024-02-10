@@ -18,6 +18,10 @@ a:hover {
     color: #167c80!important;
 }
 
+a:focus { 
+    color:#167c80!important;
+}
+
 .card {
     width: 500px;
     margin: 50px;
