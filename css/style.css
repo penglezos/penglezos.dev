@@ -9,3 +9,7 @@ body {
 .nav-item {
     margin: 10px;
 }
+
+.nav-link {
+    color: #fafafa;
+}
