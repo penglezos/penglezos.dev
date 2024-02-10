@@ -2,6 +2,10 @@ body {
     background-color: #191C1D;
 }
 
+.navbar {
+    background-color: #167c80!important;
+}
+
 .nav-item {
     margin: 10px;
 }
