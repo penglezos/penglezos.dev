@@ -51,3 +51,9 @@ img {
 h1 {
     margin-bottom: 20px;
 }
+
+.avatar {
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+}
