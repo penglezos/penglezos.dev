@@ -17,6 +17,9 @@
 }
 
 body {
+  display: flex;
+  align-items: center;
+  min-height: 70vh;
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
