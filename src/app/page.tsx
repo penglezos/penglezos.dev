@@ -1,8 +1,5 @@
-import { FaGithub } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaPaypal, FaTelegram } from "react-icons/fa";
 import { MdAlternateEmail } from "react-icons/md";
-import { FaLinkedin } from "react-icons/fa";
-import { FaPaypal } from "react-icons/fa";
-import { FaTelegram } from "react-icons/fa";
 
 export default function Home() {
   return (
