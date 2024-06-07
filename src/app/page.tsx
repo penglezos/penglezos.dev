@@ -1,6 +1,8 @@
 import { FaGithub } from "react-icons/fa";
 import { MdAlternateEmail } from "react-icons/md";
 import { FaLinkedin } from "react-icons/fa";
+import { FaPaypal } from "react-icons/fa";
+import { FaTelegram } from "react-icons/fa";
 
 export default function Home() {
   return (
@@ -13,6 +15,8 @@ export default function Home() {
         <a href="mailto:panagiotisegl@gmail.com" target="_blank"><MdAlternateEmail /></a>
         <a href="https://github.com/penglezos" target="_blank"><FaGithub /></a>
         <a href="https://linkedin.com/in/penglezos" target="_blank"><FaLinkedin /></a>
+        <a href="https://paypal.me/penglezosgr" target="_blank"><FaPaypal /></a>
+        <a href="https://t.me/penglezos" target="_blank"><FaTelegram /></a>
       </div>
     </section>
   );
