@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Panagiotis Englezos",
   description: "Panagiotis Englezos also known as penglezos is a Software and Web Developer",
+  keywords: ['penglezos', 'panagiotisenglezos', 'panagiotis englezos'],
 };
 
 export default function RootLayout({
