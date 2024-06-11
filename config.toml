@@ -6,6 +6,7 @@ theme = "PaperMod"
 [params]
   description = "penglezos software and web developer"
   author = "penglezos"
+  keywords = ['penglezos', 'panagiotisenglezos', 'panagiotis englezos']
 
 [params.profileMode]
   enabled = true
