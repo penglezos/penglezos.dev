@@ -33,3 +33,7 @@ theme = "PaperMod"
 [[params.socialIcons]]
   name = "Email"
   url = "mailto:panagiotisegl@gmail.com"
+
+[[params.socialIcons]]
+  name = "Telegram"
+  url = "https://t.me/penglezos"
