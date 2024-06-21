@@ -14,7 +14,8 @@
       <guid>http://penglezos.dev/about/</guid>
       <description>I&amp;rsquo;m Panagiotis Englezos, a software and web developer with strong background in Android OS and application development.
 I&amp;rsquo;m an active contributor to open-source software, and most of my personal projects are open source.
-I have experience with the Android Open Source Project (AOSP), greatly contributing to the: LineageOS and ArrowOS projects by doing code review and improvements on several parts of the source code as well as actively maintaining various Android OEM devices bringing them up to the latest Android version, improving code efficiency, device security, battery life and performance.</description>
+I have experience with the Android Open Source Project (AOSP), greatly contributing to the:
+LineageOS and ArrowOS projects: By doing code review and improvements on several parts of the source code as well as actively maintaining various Android OEM devices bringing them up to the latest Android version, improving code efficiency, device security, battery life and performance.</description>
     </item>
   </channel>
 </rss>
