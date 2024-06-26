@@ -4,6 +4,7 @@ title = "penglezos"
 theme = "PaperMod"
 
 [params]
+  defaultTheme = "auto"
   description = "penglezos software and web developer"
   author = "penglezos"
   keywords = ['penglezos', 'panagiotisenglezos', 'panagiotis englezos']
