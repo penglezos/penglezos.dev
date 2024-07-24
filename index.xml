@@ -12,10 +12,10 @@
       <link>http://penglezos.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://penglezos.dev/about/</guid>
-      <description>I&amp;rsquo;m Panagiotis Englezos, a software and web developer with strong background in Android OS and application development.
-I&amp;rsquo;m an active contributor to open-source software, and most of my personal projects are open source.
-I have experience with the Android Open Source Project (AOSP), greatly contributing to the:
-LineageOS and ArrowOS projects: By doing code review and improvements on several parts of the source code as well as actively maintaining various Android OEM devices bringing them up to the latest Android version, improving code efficiency, device security, battery life and performance.</description>
+      <description>I&amp;rsquo;m Panagiotis Englezos, a full-stack &amp;amp; android developer based in Greece 🇬🇷.
+Experienced with the Android Open Source Project (AOSP) I&amp;rsquo;m building Android custom ROMs,
+I actively contribute to open-source software and most of my projects are open-source, available on my Github profile.
+I enjoy working on everything software-related including: backend, frontend, web, mobile apps, and more. Experienced with: git, shell scripting, numerous web frameworks, Linux server management, code review, and collaboration.</description>
     </item>
   </channel>
 </rss>
