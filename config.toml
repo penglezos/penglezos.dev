@@ -12,7 +12,7 @@ theme = "PaperMod"
 [params.profileMode]
   enabled = true
   title = "Panagiotis Englezos"
-  subtitle = "Software & Web developer"
+  subtitle = "Full-stack & Android developer"
   imageUrl = "images/logo.webp"
   imageTitle = "Panagiotis Englezos"
   imageWidth = 160
