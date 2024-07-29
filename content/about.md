@@ -5,7 +5,7 @@ type = "page"
 aliases = [
     "/about",
 ]
-ShowReadingTime = false
+ShowReadingTime = true
 ShowToc = false
 +++
 
