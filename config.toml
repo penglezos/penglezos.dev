@@ -7,7 +7,7 @@ theme = "PaperMod"
   defaultTheme = "auto"
   description = "Panagiotis Englezos also known as penglezos is a Full-stack and Android developer based in Greece."
   author = "penglezos"
-  keywords = ['penglezos', 'panagiotisenglezos', 'panagiotis englezos']
+  keywords = ['englezos', 'penglezos', 'panagiotisenglezos', 'panagiotis englezos']
 
 [params.profileMode]
   enabled = true
