@@ -1,6 +1,6 @@
 baseURL = "http://penglezos.dev/"
 languageCode = "en-us"
-title = "penglezos"
+title = "Panagiotis Englezos"
 theme = "PaperMod"
 
 [params]
