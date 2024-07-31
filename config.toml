@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "auto"
-  description = "penglezos software and web developer"
+  description = "Panagiotis Englezos also known as penglezos is a Full-stack and Android developer based in Greece."
   author = "penglezos"
   keywords = ['penglezos', 'panagiotisenglezos', 'panagiotis englezos']
 
