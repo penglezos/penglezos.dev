@@ -7,7 +7,8 @@ export default function Home() {
       <div className="flex justify-center items-center mb-5">
         <img src="https://avatars.githubusercontent.com/u/7030531" className="rounded-full" width="150" alt="Panagiotis Englezos"></img>
       </div>
-      <h1 className="mb-10 text-4xl font-bold tracking-tighter text-center">Panagiotis Englezos</h1>
+      <h1 className="mb-5 text-4xl font-bold tracking-tighter text-center">Panagiotis Englezos</h1>
+      <p className="mb-5 tracking-tighter text-center">Full-stack & Android developer</p>
       <div className="mb-10 flex space-x-4 justify-center">
         <a href="mailto:panagiotisegl@gmail.com" target="_blank"><MdAlternateEmail size={35} /></a>
         <a href="https://github.com/penglezos" target="_blank"><FaGithub size={35} /></a>
