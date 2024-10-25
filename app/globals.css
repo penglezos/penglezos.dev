@@ -8,7 +8,7 @@ body {
   min-height: 70vh;
   font-family: Inter, sans-serif;
   color: #F1F1F1;
-  background: #000000;
+  background: #1D1E20;
 }
 
 @layer utilities {
