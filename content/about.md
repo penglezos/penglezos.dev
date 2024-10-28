@@ -23,6 +23,4 @@ I actively contribute to open-source software and most of my projects are open-s
 
 ## Contact
 
-You can email me at [panagiotisegl@gmail.com](mailto:panagiotisegl@gmail.com).
-
-I check my inbox regularly and will respond as soon as possible. 
+You can email me at [panagiotisegl@gmail.com](mailto:panagiotisegl@gmail.com). I check my inbox regularly and will respond as soon as possible.
