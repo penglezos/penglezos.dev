@@ -19,26 +19,6 @@ By doing code review on the platform Gerrit Code Review, introducing new feature
 I enjoy working on everything software-related including: backend, frontend, web, mobile apps, and more.
 Experienced with: git, shell scripting, numerous web frameworks, Linux server management, code review, and collaboration.
 
-## Projects
-
-I actively contribute to open-source software and most of my projects are open-source.
-
-* [LineageOS builds for the Redmi K20 Pro/Mi 9T Pro](https://github.com/penglezos/device_xiaomi_raphael): Unofficial LineageOS builds for the Redmi K20 Pro/Mi 9T Pro.
-
-* [LineageOS builds website](https://lineage.penglezos.dev/): A wiki containing installation instructions and useful information about the project.
-
-* [Englezos Kernel for the Redmi K20 Pro/Mi 9T Pro](https://github.com/penglezos/kernel_xiaomi_raphael): A custom Android Kernel focusing on improving battery life and device performance.
-
-* [Englezos Kernel for the Redmi Note 4(X)](https://github.com/penglezos/android_kernel_xiaomi_msm8953): A custom Android Kernel focusing on improving battery life and device performance.
-
-* [EnglezosAOSP](https://github.com/EnglezosAOSP): An AOSP project based on LineageOS with various feature additions and improvements.
-
-* [android_vendor_extra](https://github.com/penglezos/android_vendor_extra): Extra configurations for LineageOS.
-
-* [LiteCSS](https://github.com/penglezos/litecss): A simple, responsive and any device friendly customizable framework.
-
-[See more.](https://github.com/penglezos?tab=repositories)
-
 ## Contact
 
 You can email me at [panagiotisegl@gmail.com](mailto:panagiotisegl@gmail.com).
