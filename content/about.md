@@ -19,6 +19,8 @@ By doing code review on the platform Gerrit Code Review, introducing new feature
 I enjoy working on everything software-related including: backend, frontend, web, mobile apps, and more.
 Experienced with: git, shell scripting, numerous web frameworks, Linux server management, code review, and collaboration.
 
+I actively contribute to open-source software and most of my projects are open-source.
+
 ## Contact
 
 You can email me at [panagiotisegl@gmail.com](mailto:panagiotisegl@gmail.com).
