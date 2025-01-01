@@ -9,7 +9,7 @@ ShowReadingTime = true
 ShowToc = false
 +++
 
-I'm Panagiotis Englezos, a full-stack & Android developer based in Greece 🇬🇷.
+I'm Panagiotis Englezos, a full-stack & Android developer from Greece 🇬🇷.
 
 A passionate and dedicated full-stack developer with years of experience in designing,developing, and deploying high-quality dynamic and responsive web applications.
 My expertise spans both front-end and back-end development, allowing me to create comprehensive solutions that meet diverse business needs.
