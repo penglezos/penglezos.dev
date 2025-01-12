@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Panagiotis Englezos</title>
-    <link>https://penglezos.dev/</link>
+    <link>http://penglezos.dev/</link>
     <description>Recent content on Panagiotis Englezos</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>panagiotisegl@gmail.com (Panagiotis Englezos)</managingEditor>
-    <webMaster>panagiotisegl@gmail.com (Panagiotis Englezos)</webMaster>
-    <copyright>© 2025 Panagiotis Englezos</copyright>
-    <atom:link href="https://penglezos.dev/index.xml" rel="self" type="application/rss+xml" />
-    
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://penglezos.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://penglezos.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://penglezos.dev/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Panagiotis Englezos, a full-stack &amp;amp; Android developer from Greece 🇬🇷.&lt;/p&gt;
+&lt;p&gt;A passionate and dedicated full-stack developer with years of experience in designing,developing, and deploying high-quality dynamic and responsive web applications.
+My expertise spans both front-end and back-end development, allowing me to create comprehensive solutions that meet diverse business needs.&lt;/p&gt;
+&lt;p&gt;Experienced with the Android Open Source Project (AOSP), I have contributed to various Android custom ROM projects such as &lt;a href=&#34;https://github.com/LineageOS&#34;&gt;LineageOS&lt;/a&gt; and &lt;a href=&#34;https://github.com/ArrowOS&#34;&gt;ArrowOS&lt;/a&gt;.
+By doing code review on the platform Gerrit Code Review, introducing new features, improving several parts of the projects as well as actively maintaining various Android OEM devices by doing: device, vendor, and kernel bring up, latest Android version upstream, and improving battery life and device performance.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
