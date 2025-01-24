@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://penglezos.dev/sitemap.xml
